@@ -17,3 +17,11 @@ h2 {
     line-height: 5px;
     color: rgb(0, 0, 71);
 }
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+    font-size: 20pt;
+    line-height: 10px;
+    color: rgb(0, 0, 71);
+}
