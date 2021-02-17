@@ -1,7 +1,16 @@
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
     font-style: normal;
     font-weight: bold;
     font-size: 50pt;
+    color: rgb(0, 0, 71);
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 25pt;
     color: rgb(0, 0, 71);
 }
