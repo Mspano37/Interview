@@ -4,6 +4,7 @@ h1 {
     font-style: normal;
     font-weight: bold;
     font-size: 50pt;
+    line-height: 5px;
     color: rgb(0, 0, 71);
 }
 
