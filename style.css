@@ -8,7 +8,6 @@ h1 {
     font-weight: bold;
     font-size: 50pt;
     line-height: 5px;
-    text-align: center;
     color: rgb(0, 0, 71);
 }
 
@@ -18,7 +17,6 @@ h2 {
     font-weight: bold;
     font-size: 25pt;
     line-height: 20px;
-    text-align: center;
     color: rgb(0, 0, 71);
 }
 
@@ -27,7 +25,7 @@ h3 {
     margin-left: 50px;
     font-size: 20pt;
     line-height: 20px;
-    text-align: center;
+
     color: rgb(0, 0, 71);
 }
 
@@ -36,7 +34,6 @@ h4 {
     margin-left: 50px;
     font-weight: bold;
     font-size: 15pt;
-    text-align: center;
 }
 
 p {
@@ -44,11 +41,9 @@ p {
     margin-left: 50px;
     font-style: italic;
     font-size: 15pt;
-    text-align: center;
 }
 
 div {
     margin-left: 50px;
-    align-items: center;
 }
 
